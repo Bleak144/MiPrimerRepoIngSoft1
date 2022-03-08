@@ -15,3 +15,9 @@ This is a project where teacher is trying to guide me through **github** and **R
 - Bullet 2
 
 [AnotherReference](https://c.tenor.com/djoKXP_gfI0AAAAC/yo-you-good-bro.gif)
+
+#Changelog
+
+## Version 1.0.0
+
+- Change documentation added to read me file
